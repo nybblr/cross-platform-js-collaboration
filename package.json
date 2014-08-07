@@ -1,0 +1,26 @@
+{
+  "name": "cross-platform-js-collaboration",
+  "version": "0.0.1",
+  "description": "A demo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/serve/bin/serve build"
+  },
+  "author": "",
+  "devDependencies": {
+    "serve": "~1.4.0",
+    "event-stream": "latest",
+    "coffee-script": "latest",
+    "gulp": "~3.6.2",
+    "gulp-if": "latest",
+    "gulp-concat": "latest",
+    "gulp-bower-files": "latest",
+    "gulp-coffee": "latest",
+    "gulp-uglify": "latest",
+    "gulp-sass": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cssmin": "latest",
+    "gulp-jade": "latest",
+    "gulp-minify-html": "latest"
+  }
+}
